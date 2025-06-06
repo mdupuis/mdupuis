@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+I am Maxime and I'm a web developer from Montréal.
+
+
 <!--
 **mdupuis/mdupuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+My professional interests range from:
+-  
 
 Here are some ideas to get you started:
 
