@@ -2,6 +2,7 @@
 
 I am Maxime and I'm a web developer from Montréal.
 
+I have been employed as a senior software developer for [Novisto](https://novisto.com/) as [@mdupuisnovisto](https://github.com/mdupuisnovisto) for the past 4 years.
 
 <!--
 **mdupuis/mdupuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
